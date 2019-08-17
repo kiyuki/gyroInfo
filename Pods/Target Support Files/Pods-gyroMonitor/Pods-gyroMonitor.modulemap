@@ -1,0 +1,6 @@
+framework module Pods_gyroMonitor {
+  umbrella header "Pods-gyroMonitor-umbrella.h"
+
+  export *
+  module * { export * }
+}
